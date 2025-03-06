@@ -1,3 +1,5 @@
+package GestorTienda;
+
 public class GestorTienda {
     
     public double calcularDescuento(double precio, int cantidadComprada) {
